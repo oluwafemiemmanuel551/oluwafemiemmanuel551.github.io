@@ -10,7 +10,6 @@ I am a data analyst i specialize in transforming raw data into valuable business
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - Power BI
 - Excel
-- Tableau
 - Data Cleaning & Transformation
 - Exploratory Data Analysis (EDA)
 - Dashboard Development
