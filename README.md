@@ -5,6 +5,7 @@ I am a data analyst i specialize in transforming raw data into valuable business
 ### Technical Skills
 - SQL
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Machine Learning
 - Power BI
 - Excel
 - Data Cleaning & Transformation
