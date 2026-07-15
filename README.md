@@ -1,6 +1,3 @@
-# oluwafemiemmanuel551.github.io
-
-
 # Hi, I'm Oluwafemi 
 
 I am a data analyst i specialize in transforming raw data into valuable business insights through data analysis, visualization, and storytelling. My goal is to help organizations make data-driven decisions by identifying trends, optimizing processes, and delivering interactive dashboards.
